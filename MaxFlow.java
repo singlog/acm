@@ -1,3 +1,10 @@
+//input:
+/*
+numE numV
+u v w
+u v w
+...
+*/
 package exer;
 
 import java.util.Scanner;
