@@ -32,12 +32,3 @@ public class Intersect {
 			   p0.y <= Math.max(p1.y, p2.y) && p0.y >= Math.min(p1.y, p2.y);	
 	}
 }
-
-class Point{
-	double x;
-	double y;
-	Point(double x, double y){
-		this.x = x;
-		this.y = y;
-	}
-}
