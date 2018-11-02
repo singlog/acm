@@ -1,4 +1,4 @@
-package ecs122;
+
 //maximum common substring
 
 public class Mcs {
