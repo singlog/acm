@@ -1,5 +1,3 @@
-package geo;
-
 public class Intersect {
 	
 	//whether segments p1p2 and p3p4 intersect
